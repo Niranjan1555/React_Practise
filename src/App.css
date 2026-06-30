@@ -1,0 +1,27 @@
+.container {
+  text-align: center;
+  margin-top: 100px;
+}
+
+h1{
+  color: blue;
+}
+
+h2{
+  font-size: 60px;
+}
+
+button{
+  padding: 10px 20px;
+  margin: 10px;
+  border: none;
+  border-radius: 5px;
+  background: blue;
+  color: white;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+button:hover{
+  background: darkblue;
+}
