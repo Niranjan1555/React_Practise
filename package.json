@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "student-registration",
+=======
+  "name": "counter-app",
+>>>>>>> a899fcd7fd8008ca8d6b6da34099d2497c659221
   "version": "0.1.0",
   "private": true,
   "dependencies": {
