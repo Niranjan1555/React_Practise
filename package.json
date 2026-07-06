@@ -1,5 +1,13 @@
 {
+<<<<<<< HEAD
   "name": "calculator",
+=======
+<<<<<<< HEAD
+  "name": "student-registration",
+=======
+  "name": "counter-app",
+>>>>>>> a899fcd7fd8008ca8d6b6da34099d2497c659221
+>>>>>>> 7b43cdd32db8c7ca8b6144f236643ff55fd97d59
   "version": "0.1.0",
   "private": true,
   "dependencies": {
